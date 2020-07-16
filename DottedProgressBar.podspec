@@ -25,7 +25,7 @@ Simple and powerful animated progress bar with dots in Swift. Progress bar has f
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'nikola9core' => 'nikola9core@yahoo.com' }
-  s.source           = { :git => 'https://github.com/nikola9core/DottedProgressBar.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/FanUp-Inc/DottedProgressBar.git' }
   s.social_media_url = 'https://twitter.com/nikola9core'
 
   s.ios.deployment_target = '8.3'
